@@ -3,6 +3,7 @@ CREAPERSO
 createur : Lehag
 
 Creer des perso avec inventaire, metier, type, caracteristique (systeme S.P.E.C.I.A.L) et aptitude
+Adapté au systeme de jeu FLT simplifié.
 
 '''
 
